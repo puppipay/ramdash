@@ -1,5 +1,5 @@
 {
-  "name": "ramdash",
+  "name": "ramdashlib-puppipay",
   "version": "1.0.0",
   "description": "Composite key library in dash",
   "main": "index.js",
@@ -12,6 +12,7 @@
   },
   "author": "Ramesh B.N",
   "license": "GPL-3.0",
+  "private": false ,
   "bugs": {
     "url": "https://github.com/puppipay/ramdash/issues"
   },
