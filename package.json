@@ -1,0 +1,19 @@
+{
+  "name": "ramdash",
+  "version": "1.0.0",
+  "description": "Composite key library in dash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puppipay/ramdash.git"
+  },
+  "author": "Ramesh B.N",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/puppipay/ramdash/issues"
+  },
+  "homepage": "https://github.com/puppipay/ramdash#readme"
+}
