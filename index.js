@@ -1,4 +1,1 @@
-exports = {
-  ramdashbitcore : require('./lib/ramdash/dashcore-lib')
-}
-
+module.exports = require('./lib/ramdash/dashcore-lib');
